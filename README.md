@@ -33,7 +33,7 @@
 
 <p>برای اجرای این پروژه، کتابخانه‌های زیر باید نصب شوند:</p>
 
-```bash
+
 pip install telethon psutil asyncio aiocron pytz googletrans==4.0.0-rc1 gtts requests
 <hr style="border: 1px solid #ccc;" /> <h2>⚙️ نحوه اجرا</h2> <ol align="right" dir="rtl" style="text-align: right;"> <li>📁 فایل را clone یا دانلود کن</li> <li>🔑 API ID و API HASH خودت را در کد جایگزین کن</li> <li>🟢 ترمینال را باز کن و دستور زیر را بزن: <pre><code>python main.py</code></pre> </li> <li>🔐 اولین بار، اطلاعات ورود شما درخواست می‌شود (session ذخیره می‌شود)</li> </ol> <hr style="border: 1px solid #ccc;" /> <h2>📚 ساختار فایل data.json</h2>
 json
